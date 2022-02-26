@@ -1,0 +1,11 @@
+﻿  CPPBot.cpp
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\corefunc.h(836,15): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\corefunc.h(1178,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\corefunc.h(1276,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\utilsfunc.h(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\userfunc.h(243,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\userfunc.h(244,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\userfunc.h(382,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\userfunc.h(401,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\GrowtopiaBot\CPPBot\userfunc.h(505,20): warning C4018: '<': signed/unsigned mismatch
+  CPPBot.vcxproj -> C:\Users\user\Desktop\GrowtopiaBot\Debug\CPPBot.exe
